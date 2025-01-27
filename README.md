@@ -6,10 +6,13 @@ It is a Flutter-based app that provides a multi-step form designed for adding pr
 
 ## Screenshots
 
-![Screenshot_2025-01-27-22-39-19-638_com signup form signup](https://github.com/user-attachments/assets/042cf171-e0c2-42ca-a540-35ccf8e7f58d)
-![Screenshot_2025-01-27-22-39-43-267_com signup form signup](https://github.com/user-attachments/assets/0d9969bc-a4ce-4fbb-bc50-d9ecc57fc1f3)
-![Screenshot_2025-01-27-22-39-32-327_com signup form signup](https://github.com/user-attachments/assets/5654b4ed-3a13-4a21-b283-417f22099bd0)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85ff580c-c49a-41d5-a33f-b95a9f9ee6a5" alt="Screenshot 3" width="30%">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/fead1387-a133-498a-8bfb-bfd0402cbaf8" alt="Screenshot 2" width="30%">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/14e9c271-d6a3-4ddc-a23e-cec398f94fe8" alt="Screenshot 1" width="30%">
+</p>
 
 ## Installation
 
@@ -24,7 +27,7 @@ To install and run the app locally, follow these steps:
 ### Clone this repository
 
 ```bash
-[git clone [https://github.com/malikehtasham222/signup.git]]
+git clone https://github.com/malikehtasham222/signup.git
 cd signup
 ```
 
