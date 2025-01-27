@@ -55,10 +55,6 @@ If you wish to contribute to the app, feel free to submit a pull request. Please
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any queries or issues, please contact me at:  
